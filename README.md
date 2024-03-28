@@ -1,3 +1,4 @@
+# JSMP
 *J stands for Just*
 # Main principles
 1. Prevent chaos not by enforcing server-wide strict rules, but by giving everyone, even beginner players, a chance for self-defense
