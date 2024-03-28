@@ -16,7 +16,7 @@
 ## Some players travel by boat
 - Due to boat travel, the world should be about 12% bigger (8/7.127 = ~1.12) than walkable baseline.
 ## Preference for bigger world sizes
-- Fear of not having enough resources in the border. Mitigated by having all resources present inside the border (see section "All resources are present inside the border")
+- Fear of not having enough resources in the border. Mitigated by [having all resources present inside the border](#all-resources-are-present-inside-the-border)
 - Less interaction with other players. Mitigated by playing singleplayer
 ## Preference for smaller world sizes
 - More interaction with other players. Mitigated by having a fully walkable world.
@@ -54,7 +54,7 @@
 - Nether fortress
 - Bastion remnant
 ## Running out of resources
-- The server is private and thus does not have nearly enough players for that to realistically happen (see section "Server is whitelisted")
+- [The server is private](#server-is-whitelisted), and thus does not have nearly enough players for that to realistically happen
 - Even if it does happen (to some extent), this will create competition, which is, arguably, more interesting than an abundance of resources
 # You can no longer enchant netherite or diamond armor with protection
 ## Reasoning
@@ -92,7 +92,7 @@
 - GrimAC
 ## The "treadmill problem"
 *in software development - a task that occupies an infinite amount of a programmer's time, because there's endless upkeep*
-- Since the server is whitelisted (see section "Server is whitelisted"), it would be pretty easy to spot bad actors and punish them, since the amount of players is finite
+- Since [the server is whitelisted](#server-is-whitelisted), it would be pretty easy to spot bad actors and punish them, since the amount of players is finite
 - The goal of an anticheat is not to solve cheating completely, it is to discourage people to even try it
 # Authentication is implemented
 ## Reasoning
