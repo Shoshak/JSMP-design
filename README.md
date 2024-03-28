@@ -3,7 +3,7 @@
 # Main principles
 1. Prevent chaos not by enforcing server-wide strict rules, but by giving everyone, even beginner players, a chance for self-defense
 2. [Deus otiosus](https://en.wikipedia.org/wiki/Deus_otiosus)
-3. Any player can only gain an advantage through self-reliance, using in-game methods, without any external help, be it from another human or a non-human actor
+3. Any player can only gain an advantage through self-reliance or cooperation with other players, using in-game means, without any external help, be it from another human or a non-human actor
 # Worldborder is fixed at 10000 blocks
 ## Constants
 - Average player speed while sprinting and jumping - 7.127 m/s
