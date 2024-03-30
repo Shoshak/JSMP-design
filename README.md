@@ -6,7 +6,7 @@
 # Main provisions
 1. The ultimate goal of the server is to provide the maximum amount of enjoyment to maximum amount of players by making the least amount of changes to regular gameplay
 2. The only person that is responsible for any given player's enjoyment or dissatisfaction with the server is the player themselves
-3. Any person with elevated privileges cannot intervene in regular gameplay
+3. Any person with elevated privileges cannot use their special permissions to intervene in regular gameplay
 4. Any given player cannot use external tools to gain an advantage in regular gameplay
 5. Any player's account is only theirs. No other people are allowed to participate in regular gameplay through the account of this player
 # Articles
