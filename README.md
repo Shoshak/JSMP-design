@@ -1,9 +1,14 @@
 # JSMP
 *J stands for Just*
-# Main principles
-1. Prevent chaos not by enforcing server-wide strict rules, but by giving everyone, even beginner players, a chance for self-defense
-2. [Deus otiosus](https://en.wikipedia.org/wiki/Deus_otiosus)
-3. Any player can only gain an advantage through in-game means, by self-reliance or cooperation with other players. Gaining an advantage through external methods outside the scope of regular gameplay, be it from another human or non-human actor, is not allowed.
+# Terminology
+1. "Regular gameplay" - the term used to describe any action taken by any given player that results in their direct interaction with the in-game world around them. "Regular gameplay" does not account for other methods of interaction that can be considered "meta", such as external or in-game chats
+2. "Player" - one real-life person
+# Main provisions
+1. The ultimate goal of the server is to provide the maximum amount of enjoyment to maximum amount of players by making the least amount of changes to regular gameplay
+2. The only person that is responsible for any given player's enjoyment or dissatisfaction with the server is the player themselves
+3. Any person with elevated privileges cannot use their special permissions to intervene in regular gameplay
+4. Any given player cannot use external tools to gain an advantage in regular gameplay
+5. Any player's account is only theirs. No other people are allowed to participate in regular gameplay through the account of this player
 # Articles
 1. [Worldborder is fixed at 10000 blocks](worldborder.md)
 2. [All resources are present inside the border](resources.md)
