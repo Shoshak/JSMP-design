@@ -1,7 +1,7 @@
 # Reasoning
 - See main principle 3
 # Anticheats presents
-- Paper anti-xray
+- Anti-xray
 - GrimAC
 # The "treadmill problem"
 *in software development - a task that occupies an infinite amount of a programmer's time, because there's endless upkeep*
