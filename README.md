@@ -1,4 +1,4 @@
-# JSMP
+# ~~Анкап~~JSMP
 *J stands for Just*
 # Terminology
 1. "Regular gameplay" - the term used to describe any action taken by any given player that results in their direct interaction with the in-game world around them. "Regular gameplay" does not account for other methods of interaction that can be considered "meta", such as external or in-game chats
